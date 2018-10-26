@@ -10,7 +10,7 @@
 
 #### Q-Network
 
-The `QNetwork` implements a fully connected neural network responsible to capture the trained `Module`
+The `QNetwork` class implements a fully connected neural network responsible to capture the trained `Module`
 mapping an observed state to the optimal corresponding action to take.
 
 | Input Size        | Layer           | Output Size |
