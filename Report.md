@@ -19,7 +19,7 @@ mapping an observed state to the optimal corresponding action to take.
 | 64      | RELU     |   64 |
 | 64 | Fully Connected     |    64 |
 | 64      | RELU     |   64 |
-| 64 | Fully Connected     |    8 |
+| 64 | Fully Connected     |    4 |
 
 #### Agent
 
